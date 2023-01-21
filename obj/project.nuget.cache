@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hs3dwUyy6tTSjVPFjBOFJIbs7k4omEJU+R8cdaJ82+a5TKaR6U/8wjMOCQbY4DlSjYoyHzpYSmZ9cZGMvMnf3w==",
+  "dgSpecHash": "o6em1S1KW+FJhFkA6IqIDAQowcG8FU8NNaCeW3I1gZipFVOHikWKMIDK6n4J/EZxwdUM6dfpvUJj/NwL5JyKlQ==",
   "success": true,
-  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\Blog-master\\BlackCoderBetterBlogMaster.csproj",
+  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\BlackCoderBetterBlogApp\\BlackCoderBetterBlogMaster.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\visha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
