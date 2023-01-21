@@ -1,0 +1,122 @@
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\appsettings.json
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Blog.exe
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Blog.deps.json
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Blog.runtimeconfig.json
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Blog.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Blog.pdb
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Humanizer.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\visha\Desktop\New\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\Blog.csproj.AssemblyReference.cache
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\Blog.AssemblyInfoInputs.cache
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\Blog.AssemblyInfo.cs
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\Blog.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\Blog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\staticwebassets\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\staticwebassets\msbuild.build.Blog.props
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blog.props
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blog.props
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\scopedcss\bundle\Blog.styles.css
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\Blog.csproj.CopyComplete
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\Blog.dll
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\refint\Blog.dll
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\Blog.pdb
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\Blog.genruntimeconfig.cache
+C:\Users\visha\Desktop\New\Blog-master\obj\Debug\net6.0\ref\Blog.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\appsettings.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Blog.exe
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Blog.deps.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Blog.runtimeconfig.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Blog.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Blog.pdb
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Humanizer.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\Blog.csproj.AssemblyReference.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\Blog.AssemblyInfoInputs.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\Blog.AssemblyInfo.cs
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\Blog.csproj.CoreCompileInputs.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\Blog.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\staticwebassets\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\staticwebassets\msbuild.build.Blog.props
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blog.props
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blog.props
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\scopedcss\bundle\Blog.styles.css
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\Blog.csproj.CopyComplete
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\Blog.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\refint\Blog.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\Blog.pdb
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\Blog.genruntimeconfig.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\Blog-master\obj\Debug\net6.0\ref\Blog.dll
