@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\BlackCoderBetterBlogApp\\BlackCoderBetterBlogMaster.csproj",
+      "projectUniqueName": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\BlackCoderBetterBlogApp\\BlackCoderBetterBlogMaster.csproj",
       "projectName": "BlackCoderBetterBlogMaster",
-      "projectPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\BlackCoderBetterBlogApp\\BlackCoderBetterBlogMaster.csproj",
+      "projectPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\BlackCoderBetterBlogApp\\BlackCoderBetterBlogMaster.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\BlackCoderBetterBlogApp\\obj\\",
+      "outputPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\BlackCoderBetterBlogApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
